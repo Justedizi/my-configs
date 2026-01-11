@@ -1,0 +1,11 @@
+# Neovim junk
+nvim/.repro/
+nvim/undo/
+nvim/backups/
+
+# Kitty junk
+kitty/cache/
+
+# System junk
+.DS_Store
+*.log
